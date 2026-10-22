@@ -2,7 +2,6 @@
 
 Cyber Security. Builder. Physics.
 
-[X](https://x.com/villtock)
 
 ## Physics
 
