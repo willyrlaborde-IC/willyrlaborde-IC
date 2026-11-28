@@ -1,11 +1,16 @@
-# Willy Laborde
+Senior Security Engineer. PhD in Physics, EPFL.
 
-Cyber Security. Builder. Physics.
+## Open source
 
-## Cyber Security
+Two ClickHouse projects are underway. Both are still private and will be published here.
 
-Security projects are in [cyber](https://github.com/willyrlaborde-IC/cyber). Same layout: one folder per project, listed from that repo's README.
+- dvf-clickhouse (coming soon): load France's open DVF property-sale data into ClickHouse.
+- Hub signal integrity study (coming soon): a metadata-only study of Hugging Face Hub metric integrity, in ClickHouse.
 
-## Physics
+Links will be added when the repositories are public.
 
-Coursework and lab notes are in [physics](https://github.com/willyrlaborde-IC/physics). Each project is one folder. The list is the README of that repo.
+
+
+
+
+
